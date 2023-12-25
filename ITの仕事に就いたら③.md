@@ -112,3 +112,6 @@ IoT(Internet of Things、モノのインターネット)とは
 IoE(Internet of Everything)とは
 モノだけでなく、ヒトや場所などがインターネットにつながるという概念です。
 
+WoT(Web of Things)とは
+既存のWeb技術やプロトコルを利用してIoTのサービスを提供するという概念です。
+
