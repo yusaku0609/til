@@ -115,3 +115,5 @@ IoE(Internet of Everything)とは
 WoT(Web of Things)とは
 既存のWeb技術やプロトコルを利用してIoTのサービスを提供するという概念です。
 
+IoTシステムは、交通から工場、オフィスビル、農地まで様々な分野で利用が期待されています。
+
