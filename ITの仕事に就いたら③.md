@@ -173,3 +173,5 @@ SPA(Single Page Application)とは、表示方式を使い、ページ全体を�
 
 SSR(Server Side Redering)とは、Webサーバー上のJavaScriptプログラムがAPサーバーとやり取りして必要なデータのみを取得する仕組み。
 
+マイクロサービスとは、ソフトウェアの構造に着目したシステム開発の概念です。
+
