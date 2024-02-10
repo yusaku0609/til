@@ -179,3 +179,5 @@ SSR(Server Side Redering)とは、Webサーバー上のJavaScriptプログラム
 SOA(Service Orientec Architecture)とは
 大規模システムを業務処理などの単位である「サービス」に分割し、標準的なインターフェイスから呼び出した複数のサービスを組み合わせてシステムとして機能させる設計方法である。
 
+NoSQLデータベースの利用は、ビッグデータを容易に扱えるようにするためです。
+
