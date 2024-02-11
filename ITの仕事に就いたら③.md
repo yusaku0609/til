@@ -181,3 +181,5 @@ SOA(Service Orientec Architecture)とは
 
 NoSQLデータベースの利用は、ビッグデータを容易に扱えるようにするためです。
 
+NoSQLデータベース(NoSQL DB)とは、リレーショナルデータベース以外のデータベース全体を指す概念です。
+
