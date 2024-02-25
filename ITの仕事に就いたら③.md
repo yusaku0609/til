@@ -173,3 +173,5 @@ AR(Augmented Reality、拡張現実)とは、現実世界にデジタルによ�
 
 VR(Virtual Reality、仮装実現)とは、仮想世界に自分が入っているように感じさせる技術です。
 
+MR(Mixed Reality、複合現実)とは、仮想世界に現実世界の情報を加える技術です。
+
