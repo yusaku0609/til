@@ -32,6 +32,8 @@ CBT(Computer Based Testing)方式とは、コンピュータを利用して実�
 「株式会社の最高意思決定機関」
 
 CSR(Corporate Social Responsibility)とは、企業社会的責任
+①グリーンIT・・・地球に優しいITのこと。社会の省エネを推進し、環境を保護していくという考え方。
+
 
 
 
