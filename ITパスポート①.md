@@ -46,3 +46,5 @@ CBT(Computer Based Testing)方式とは、コンピュータを利用して実�
 
 HRM(Human Resource Management:人的資源管理)とは、ヒトを経営資源の1つと考え、人的資源を有効活用すること。訓練や教育で価値を高めることができる。
 
+OJT(On the Job Training)とは、実際の業務を通じた教育訓練です。
+
