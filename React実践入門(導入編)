@@ -3,3 +3,4 @@ Ajaxとは、「ブラウザー上でデスクトップアプリライクなペ�
 HTML5とは、ブラウザーネイティブな機能だけでアプリを開発できる基盤(JavaScriptAPIが整備されたことにあります)
 SPA(Single Page Application)とは、単一ページで構成されるWebアプリのことです。
 MPA(Multi Page Application)とは、複数のページで構成される従来型のアプリケーションのことです。
+jQueryとは、基本的なページの操作からアニメーション、Ajax通信、標準JavaScriptの拡張など、JavaScriptにおけるUI開発を広くサポートする、優れたライブラリです。
