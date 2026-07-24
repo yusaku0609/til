@@ -2,3 +2,4 @@ Reactとは、Meta(旧Facebook)と協力コミュニティによって開発さ�
 Ajaxとは、「ブラウザー上でデスクトップアプリライクなページを作成する技術」の総称。(GoogleMapがAjaxの代表的なサービス)
 HTML5とは、ブラウザーネイティブな機能だけでアプリを開発できる基盤(JavaScriptAPIが整備されたことにあります)
 SPA(Single Page Application)とは、単一ページで構成されるWebアプリのことです。
+MPA(Multi Page Application)とは、複数のページで構成される従来型のアプリケーションのことです。
