@@ -5,3 +5,4 @@ SPA(Single Page Application)とは、単一ページで構成されるWebアプ�
 MPA(Multi Page Application)とは、複数のページで構成される従来型のアプリケーションのことです。
 jQueryとは、基本的なページの操作からアニメーション、Ajax通信、標準JavaScriptの拡張など、JavaScriptにおけるUI開発を広くサポートする、優れたライブラリです。
 Angularとは、ビューからサービスまで幅広くサポートした高機能なフレームワークです。
+制御の反転(IoC:Inversion of Control)とは、オブジェクトを作ったり管理したりする役割を、自分のプログラムではなくフレームワークやコンテナに任せる考え方。
