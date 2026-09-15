@@ -40,8 +40,7 @@ main.jsxはReactアプリを実行する際に最初に呼び出されるファ�
 JSXは、Meta(旧Facebook)が開発したJavaScriptの拡張構文で、JavaScriptのコードにタグ構造を埋め込むための仕組みです。
 🔴Reactでは、テンプレートを表すためにJSXを利用する
 あいうえお
-かき
-く
+かきく
 け
 こ
 さ
